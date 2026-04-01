@@ -35,7 +35,7 @@ This project is licensed under the [Apache License 2.0](LICENSE) - feel free to 
 
 ## Reach Me
 
-Feel free to reach out for collaborations or discussions related to this project. You can find me on [LinkedIn](www.linkedin.com/in/anubhav-natani-0026aa227) or [Email](anubhavnatani10@gmail.com).
+Feel free to reach out for collaborations or discussions related to this project. You can find me on [LinkedIn](www.linkedin.com/in/shantanu-h) or [Email](hazrashantanu051@gmail.com).
 
 Thank you for exploring this project! I hope it inspires you in your endeavors within cybersecurity and data science.
 
